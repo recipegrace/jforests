@@ -1,3 +1,4 @@
+Credits: yasserg/jforests
 jforests is a Java library that implements many tree-based learning algorithms.
 
 jforests can be used for regression, classification and ranking problems. The latest release can be downloaded from  https://github.com/yasserg/jforests/releases
